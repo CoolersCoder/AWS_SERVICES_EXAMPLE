@@ -3,4 +3,6 @@ Example code for all aws services
 
 
 - AWS Rekognition 
-
+  - faceReconigze
+  - textReconigze
+  - labelReconigze
